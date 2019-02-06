@@ -1,5 +1,5 @@
 body {
-  color: white;
+
 }
 
 .my-gallery {
@@ -12,9 +12,9 @@ body {
 }
 .my-gallery figure {
   display: block;
-  float: left;
+  clear:both;
   margin: 0 5px 5px 0;
-  width: 150px;
+  width: 450px;
 }
 .my-gallery figcaption {
   display: none;
